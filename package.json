@@ -31,7 +31,7 @@
     "ejs": "^2.6.1",
     "fs-extra": "^7.0.0",
     "gh-pages": "^2.0.0",
-    "html-minifier": "^3.5.20",
+    "html-minifier": "^4.0.0",
     "loading-cli": "^1.0.8",
     "marked": "^0.5.1",
     "opencollective": "^1.0.3",
